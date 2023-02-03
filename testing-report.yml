@@ -1,6 +1,6 @@
 - summary: |
     Пользователь может зарегистрироваться
-  status: pass
+   status: pass
 - summary: |
     Пользователь может авторизоваться по email
   status: pass
