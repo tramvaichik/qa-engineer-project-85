@@ -4,96 +4,96 @@
     
 - summary: |
     Проверка входа пользователя по  email
-    status: pass
+  status: pass
     
 - summary: |
     Проверка входа пользователя через github
-    status: pass
+  status: pass
     
 - summary: |
     Проверка входа пользователя через discord
-    status: pass
+  status: pass
  
 - summary: |
     Проверка входа пользователя с несуществующими логином и паролем
-    status: pass
+  status: pass
     
 - summary: |
     Проверка входа в личный кабинет
-    status: pass
+  status: pass
     
 - summary: |
     Проверка выбора уровня сложности
-    status: pass
+  status: pass
     
 - summary: |
     Проверка выбора соперника-бота
-    status: pass
+  status: pass
     
 - summary: |
     Проверка выбора времени тура
-    status: pass
+  status: pass
     
 - summary: |
     Проверка выбора задачи из списка
-    status: pass
+  status: pass
     
 - summary: |
     Проверка выбора тега
-    status: pass
+  status: pass
     
 - summary: |
     Проверка ввода кода
-    status: pass
+  status: pass
     
 - summary: |
     Проверка выбора языка программирования
-    status: pass
+  status: pass
     
 - summary: |
     Проверка выхода из игры
-    status: pass
+  status: pass
     
 - summary: |
     Проверка сброса редактора
-    status: pass
+  status: pass
     
 - summary: |
     Проверка решения
-    status: pass
+  status: pass
     
 - summary: |
     Проверка работы чата
-    status: pass
+  status: pass
     
 - summary: |
     Проверка работы вкладки "TOURNAMENTS"
-    status: pass
+  status: pass
     
 - summary: |
     Проверка работы вкладки "COMPLETED GAMES"
-    status: pass
+  status: pass
     
 - summary: |
     Проверка адаптивности под мобильные устройства
-    status: pass
+  status: pass
     
 - summary: |
     Проверка отображения сайта в браузере Firefox
-    status: pass
+  status: pass
     
 - summary: |
     Проверка переключения языков
-    status: fail
+  status: fail
     
 - summary: |
     Проверка на переход между вкладками
-    status: pass
+  status: pass
     
 - summary: |
     Переход на главную страницу игры
-    status: pass
+  status: pass
     
 - summary: |
     Проверка описания игровых кнопок
-    status: pass
+  status: pass
